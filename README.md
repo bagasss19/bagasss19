@@ -1,4 +1,12 @@
-### Hi there 👋
+### Venation App Developer
+
+
+### Github Performance Overall
+
+![Riky's github stats](https://github-readme-stats.vercel.app/api?username=bagasss19&show_icons=true&them=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasss19)
+
 
 <!--
 **bagasss19/bagasss19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
