@@ -1,6 +1,3 @@
-### Venation App Developer
-
-
 ### Github Performance Overall
 
 ![Riky's github stats](https://github-readme-stats.vercel.app/api?username=bagasss19&show_icons=true&them=cobalt)
