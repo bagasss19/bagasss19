@@ -1,6 +1,6 @@
 ### Github Performance Overall
 
-![Bagas's github stats](https://github-readme-stats.vercel.app/api?username=bagasss19&show_icons=true&them=cobalt)
+![Bagas's github stats](https://github-readme-stats.vercel.app/api?username=bagasss19&theme=midnight-purple&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasss19)
 
